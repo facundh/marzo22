@@ -1,6 +1,6 @@
 import React from "react";
 
-const RegisterForm = () => {
+const AltaPersonal = () => {
   return (
     <form className="w-50 mx-auto ">
     <div className="mb-3">
@@ -33,4 +33,4 @@ const RegisterForm = () => {
   );
 };
 
-export default RegisterForm;
+export default AltaPersonal;

@@ -1,6 +1,10 @@
 import React from 'react'
 
-const PrivateRoute = () => {
+const PrivateRoute = ({rol}) => {
+
+  // const {user} = authConsumer();
+  
+
   return (
     <div>PrivateRoute</div>
   )
